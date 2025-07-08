@@ -19,9 +19,11 @@ I design and deploy scalable BI solutions that bridge raw data and real impact. 
 ---
 
 📌 **Featured Projects**  
-- 🔗 [Profit Coach Dashboard System](https://github.com/Vila88/profit-coach-dashboard) – Custom-built KPI framework, ETL, and interactive dashboards to track financial health across clients.  
-- 🔗 [IMPLAN KPI Platform (Demo)](https://github.com/Vila88/implan-kpi-analytics) – Automated pipeline integrating 12+ sources with dynamic reporting via Power BI.  
-- 🔗 [Open Pothole Detection AI](https://github.com/Vila88/deep-learning-pothole-detector) – Deep Learning model for civic infrastructure, using TensorFlow and OpenCV.  
+- 🔗 [Property Management Performance Dashboard](https://github.com/Alonsovl88074/Property-Management-Performance-Dashboard.git) – Custom-built KPI framework, ETL, and interactive dashboards to track financial health across clients.  
+- 🔗 [Law Firm Performance Analytics](https://github.com/Alonsovl88074/Law-Firm-Performance-Analytics.git) – A comprehensive Business Intelligence solution for a fictional personal injury law firm.  
+- 🔗 [Investment Portfolio Risk Opportunity Dashboard](https://github.com/Alonsovl88074/Investment-Portfolio-Risk-Opportunity-Dashboard.git) – A real-world Business Intelligence scenario at an investment fund. It involves building an end-to-end ETL pipeline
+- 🔗 [Marketing-Multi-Channel-Attribution-Funnel-Analysis](https://github.com/Alonsovl88074/Marketing-Multi-Channel-Attribution-Funnel-Analysis.git) – This project tackles a classic and critical problem in digital marketing: understanding how different marketing channels contribute to sales. 
+- 🔗 [Healthcare Readmission Analysis with Social Determinants of Health (SDoH)](https://github.com/Alonsovl88074/Investment-Portfolio-Risk-Opportunity-Dashboard.git) –  An analytical dashboard that identifies correlations between socioeconomic factors and health outcomes, and pinpoints geographic areas that may require community-level interventions.
 
 ---
 
