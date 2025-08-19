@@ -24,6 +24,7 @@ I design and deploy scalable BI solutions that bridge raw data and real impact. 
 - 🔗 [Investment Portfolio Risk Opportunity Dashboard](https://github.com/Alonsovl88074/Investment-Portfolio-Risk-Opportunity-Dashboard.git) – A real-world Business Intelligence scenario at an investment fund. It involves building an end-to-end ETL pipeline
 - 🔗 [Marketing-Multi-Channel-Attribution-Funnel-Analysis](https://github.com/Alonsovl88074/Marketing-Multi-Channel-Attribution-Funnel-Analysis.git) – This project tackles a classic and critical problem in digital marketing: understanding how different marketing channels contribute to sales. 
 - 🔗 [Healthcare Readmission Analysis with Social Determinants of Health (SDoH)](https://github.com/Alonsovl88074/Investment-Portfolio-Risk-Opportunity-Dashboard.git) –  An analytical dashboard that identifies correlations between socioeconomic factors and health outcomes, and pinpoints geographic areas that may require community-level interventions.
+- 🔗 [AI-Powered Municipal Assistant: Chatbot for IMPLAN Delicias](https://github.com/Alonsovl88074/AI-Powered-Municipal-Assistant-Chatbot-for-IMPLAN-Delicias.git) –  An intelligent virtual assistant for the Municipal Planning Institute (IMPLAN) of Delicias
 
 ---
 
