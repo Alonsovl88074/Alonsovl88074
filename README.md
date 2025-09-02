@@ -19,6 +19,7 @@ I design and deploy scalable BI solutions that bridge raw data and real impact. 
 ---
 
 📌 **Featured Projects**  
+- 🔗 [Interactive Circular Economy Simulator for IMPLAN Delicias](https://github.com/Alonsovl88074/Interactive-Circular-Economy-Simulator-for-IMPLAN-Delicias.git) –  An interactive IA web-based simulator designed to generate tailored Circular Economy strategies for businesses in Delicias, Chihuahua.
 - 🔗 [Property Management Performance Dashboard](https://github.com/Alonsovl88074/Property-Management-Performance-Dashboard.git) – Custom-built KPI framework, ETL, and interactive dashboards to track financial health across clients.  
 - 🔗 [Law Firm Performance Analytics](https://github.com/Alonsovl88074/Law-Firm-Performance-Analytics.git) – A comprehensive Business Intelligence solution for a fictional personal injury law firm.  
 - 🔗 [Investment Portfolio Risk Opportunity Dashboard](https://github.com/Alonsovl88074/Investment-Portfolio-Risk-Opportunity-Dashboard.git) – A real-world Business Intelligence scenario at an investment fund. It involves building an end-to-end ETL pipeline
