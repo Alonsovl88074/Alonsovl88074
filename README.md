@@ -31,7 +31,7 @@ I design and deploy scalable BI solutions that bridge raw data and real impact. 
 
 📫 **Let’s Connect**  
 - 📧 Email: alonsovl.logos@gmail.com  
-- 🌐 [Portfolio](https://alonsovllogos.wixsite.com)  
+- 🌐 [Landing]([https://alonsovllogos.wixsite.com](https://thedevlogos.alonsovl-logos88.workers.dev/))  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alonso-villalobos-lara-7297641b)
 
 ---
